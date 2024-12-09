@@ -1,5 +1,3 @@
-Your JSON is invalid due to the presence of unescaped spaces in some URLs and inconsistent key formatting. Below is the corrected JSON:
-
 [
     {
         "name": "Fiction - Castle",
